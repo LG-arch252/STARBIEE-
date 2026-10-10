@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 9h | 5 |
+| Week 1 | Tier 1 | 10h | 5 |
 
 ## Contents
 
@@ -68,7 +68,7 @@ I did some tweaking. Made final changes to the pcb, It isn't much noticable. It 
 
 ### 2026-10-10 – I worked on the Firmware again, It took me a while learning the basics and understanding the given code. It was a fun challenge for myself as I stopped coding years ago. And Yeah my firmware is ready.
 
-**3h**
+**4h**
 
 I worked on the Firmware again, It took me a while learning the basics and understanding the given code. It was a fun challenge for myself as I stopped coding years ago. And Yeah my firmware is ready.
 
@@ -77,3 +77,5 @@ I worked on the Firmware again, It took me a while learning the basics and under
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/dbVmAlhvfMbfpbaph2Ii589bjH8m9q1m/2ae304bc69a24e702a75cd31aa0610559c73835240ea7f9c95960c12d364b70d.png)
 
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/dbVmAlhvfMbfpbaph2Ii589bjH8m9q1m/37e4378c1cd33a677dcdf2c9928fa55f8147cc38c82bb21b55d1ad8fcf7f3ebe.png)
+
+![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/dbVmAlhvfMbfpbaph2Ii589bjH8m9q1m/55a28aa9499d00bf16c510855b8a9f112be193f0fa0c1ec8b9497fe8ee939a6c.png)
