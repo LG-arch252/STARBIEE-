@@ -6,14 +6,14 @@ Starbie is a custom electronics project that combines environmental sensing, mot
 
 Features: -
 
-⭐ Custom star-shaped PCB design
-🧠 ESP32-C3 microcontroller
-🌡️ DHT11 sensor for temperature and humidity
-🖥️ OLED display interface
-🧭 MPU6050 accelerometer and gyroscope for motion and orientation data
-🔘 Two physical push buttons for user input
-🔌 Dedicated connectors for sensors and peripherals
-⚡ 3.3V-compatible sensor interfaces
+- Custom star-shaped PCB design
+- ESP32-C3 microcontroller
+- DHT11 sensor for temperature and humidity
+- OLED display interface
+- MPU6050 accelerometer and gyroscope for motion and orientation data
+- Two physical push buttons for user input
+- Dedicated connectors for sensors and peripherals
+- 3.3V-compatible sensor interfaces
 
  How It Works: -
 
