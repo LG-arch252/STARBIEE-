@@ -5,6 +5,7 @@ A compact, star-shaped environmental sensing project powered by the ESP32-C3.
 Starbie is a custom electronics project that combines environmental sensing, motion sensing, and a display interface on a uniquely designed star-shaped PCB. Built around the ESP32-C3, it brings together multiple sensors and physical controls in a compact board.
 
 Features: -
+<img width="866" height="441" alt="image" src="https://github.com/user-attachments/assets/c7013ada-3a20-4447-b01a-979fff2a3755" />
 
 - Custom star-shaped PCB design
 - ESP32-C3 microcontroller
