@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 4.93h | 3 |
+| Week 1 | Tier 1 | 5.63h | 3 |
 
 ## Contents
 
@@ -42,10 +42,14 @@ I tried to do the wiring in pcb and it still gives me a hard time as i am new to
 
 ### 2026-10-10 – I finally completed routing the pcb. It was challeneging and I m glad to overcome this hassle. I learnt quite a lot and I took notes of things to avoid for future projects!!. This was a cool project !
 
-**2h**
+**2.7h**
 
 I finally completed routing the pcb. It was challeneging and I m glad to overcome this hassle. I learnt quite a lot and I took notes of things to avoid for future projects!!. This was a cool project !!
 
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/dbVmAlhvfMbfpbaph2Ii589bjH8m9q1m/9591123cc5870b272f304ca588a8aa533ab7426bfd30756cf6289ed4286c4302.png)
 
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/dbVmAlhvfMbfpbaph2Ii589bjH8m9q1m/29bdf9bf0ec1fb094de7a186e090350406edf8bcf483008999b16982f215964e.png)
+
+![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/dbVmAlhvfMbfpbaph2Ii589bjH8m9q1m/9591123cc5870b272f304ca588a8aa533ab7426bfd30756cf6289ed4286c4302.png)
+
+![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/dbVmAlhvfMbfpbaph2Ii589bjH8m9q1m/eb3cab210618e330c46986b591de500137f434c8a9c4c3f5f6490b318fcc4252.png)
